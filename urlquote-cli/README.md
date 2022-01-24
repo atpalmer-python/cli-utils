@@ -2,7 +2,7 @@
 
 ## Installation
 
-    pip install git+https://github.com/atpalmer-python/urlquote-cli --user
+    pip install urlquote-cli --user
 
 ## Usage
 
